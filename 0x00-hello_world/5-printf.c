@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-/*
- *main - prints a text
+/**
+ *main - print exact text
  *
  * Return: 0
  */
