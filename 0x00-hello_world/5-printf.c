@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /*
- *main-Printing
+ *main - prints a text
  *
- * Using printf formatted output command
+ * Return: 0
  */
 int main(void)
 {
