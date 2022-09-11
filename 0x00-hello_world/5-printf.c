@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 /*
+ *main-Printing
+ *
  * Using printf formatted output command
  */
 int main(void)
