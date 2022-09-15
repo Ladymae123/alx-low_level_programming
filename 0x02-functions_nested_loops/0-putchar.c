@@ -3,7 +3,7 @@
 /**
  * main - prints the word _putchar
  *
- * Return: 1 on success execution.
+ * Return: 0 on success execution.
  */
 
 int main(void)
@@ -18,5 +18,5 @@ int main(void)
 	}
 	_putchar(10);
 
-	return (1);
+	return (0);
 }
